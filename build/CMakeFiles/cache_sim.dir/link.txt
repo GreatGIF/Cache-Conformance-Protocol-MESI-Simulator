@@ -1,3 +1,0 @@
-D:\software\CMake\bin\cmake.exe -E rm -f CMakeFiles\cache_sim.dir/objects.a
-D:\VSCode\mingw64\bin\ar.exe qc CMakeFiles\cache_sim.dir/objects.a @CMakeFiles\cache_sim.dir\objects1.rsp
-D:\VSCode\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\cache_sim.dir/objects.a -Wl,--no-whole-archive -o cache_sim.exe -Wl,--out-implib,libcache_sim.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cache_sim.dir\linkLibs.rsp

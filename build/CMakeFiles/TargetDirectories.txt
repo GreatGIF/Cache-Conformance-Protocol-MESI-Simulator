@@ -1,3 +1,0 @@
-C:/Users/Warriors/Desktop/test/cache/build/CMakeFiles/cache_sim.dir
-C:/Users/Warriors/Desktop/test/cache/build/CMakeFiles/edit_cache.dir
-C:/Users/Warriors/Desktop/test/cache/build/CMakeFiles/rebuild_cache.dir
