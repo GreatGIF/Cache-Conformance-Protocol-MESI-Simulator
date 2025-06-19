@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/Warriors/Desktop/test/cache/build",
+  "command": "D:\\VSCode\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\cache_sim.dir\\src\\bus.cpp.obj -c C:\\Users\\Warriors\\Desktop\\test\\cache\\src\\bus.cpp",
+  "file": "C:/Users/Warriors/Desktop/test/cache/src/bus.cpp",
+  "output": "CMakeFiles/cache_sim.dir/src/bus.cpp.obj"
+},
+{
+  "directory": "C:/Users/Warriors/Desktop/test/cache/build",
+  "command": "D:\\VSCode\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\cache_sim.dir\\src\\cache.cpp.obj -c C:\\Users\\Warriors\\Desktop\\test\\cache\\src\\cache.cpp",
+  "file": "C:/Users/Warriors/Desktop/test/cache/src/cache.cpp",
+  "output": "CMakeFiles/cache_sim.dir/src/cache.cpp.obj"
+},
+{
+  "directory": "C:/Users/Warriors/Desktop/test/cache/build",
+  "command": "D:\\VSCode\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\cache_sim.dir\\src\\core.cpp.obj -c C:\\Users\\Warriors\\Desktop\\test\\cache\\src\\core.cpp",
+  "file": "C:/Users/Warriors/Desktop/test/cache/src/core.cpp",
+  "output": "CMakeFiles/cache_sim.dir/src/core.cpp.obj"
+},
+{
+  "directory": "C:/Users/Warriors/Desktop/test/cache/build",
+  "command": "D:\\VSCode\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\cache_sim.dir\\src\\generate_request.cpp.obj -c C:\\Users\\Warriors\\Desktop\\test\\cache\\src\\generate_request.cpp",
+  "file": "C:/Users/Warriors/Desktop/test/cache/src/generate_request.cpp",
+  "output": "CMakeFiles/cache_sim.dir/src/generate_request.cpp.obj"
+},
+{
+  "directory": "C:/Users/Warriors/Desktop/test/cache/build",
+  "command": "D:\\VSCode\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\cache_sim.dir\\src\\main.cpp.obj -c C:\\Users\\Warriors\\Desktop\\test\\cache\\src\\main.cpp",
+  "file": "C:/Users/Warriors/Desktop/test/cache/src/main.cpp",
+  "output": "CMakeFiles/cache_sim.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Warriors/Desktop/test/cache/build",
+  "command": "D:\\VSCode\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\cache_sim.dir\\src\\memory.cpp.obj -c C:\\Users\\Warriors\\Desktop\\test\\cache\\src\\memory.cpp",
+  "file": "C:/Users/Warriors/Desktop/test/cache/src/memory.cpp",
+  "output": "CMakeFiles/cache_sim.dir/src/memory.cpp.obj"
+},
+{
+  "directory": "C:/Users/Warriors/Desktop/test/cache/build",
+  "command": "D:\\VSCode\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\cache_sim.dir\\src\\request.cpp.obj -c C:\\Users\\Warriors\\Desktop\\test\\cache\\src\\request.cpp",
+  "file": "C:/Users/Warriors/Desktop/test/cache/src/request.cpp",
+  "output": "CMakeFiles/cache_sim.dir/src/request.cpp.obj"
+}
+]

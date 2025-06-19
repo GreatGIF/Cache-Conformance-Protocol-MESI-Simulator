@@ -1,0 +1,5 @@
+<P0, write, 256, 100>;	<P1, write, 128, 200>;	NULL;			NULL
+NULL;			NULL;			<P2, write,  32, 300>;	<P3, write, 128, 400>
+<P0, read,   32, - >;	<P1, read,   32, - >;	<P2, read,  128, - >;	<P3, read,  256, - >
+NULL;			<P1, write, 144, 500>;	<P2, write, 128, 77>;	NULL
+<P0, read,  144, - >;	NULL;			NULL;			<P3, write, 128, 96>

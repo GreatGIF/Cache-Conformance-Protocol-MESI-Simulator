@@ -1,0 +1,4 @@
+<P0, barrier, -, ->;<P1, write, 128, 200>;NULL;NULL
+<P0, write, 256, 100>;<P1, read, 128, ->;NULL;NULL
+<P1, barrier, -, ->;<P2, barrier, -, ->;<P3, barrier, -, ->
+<P0, read, 32, ->;<P1, read, 32, ->;

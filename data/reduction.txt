@@ -1,0 +1,64 @@
+NULL;	NULL;	NULL;	<P3, read, 768, ->	
+NULL;	<P1, read, 256, ->;	<P2, read, 512, ->;	<P3, write, 768, 0>	
+<P0, read, 0, ->;	<P1, write, 256, 0>;	<P2, write, 512, 0>;	<P3, read, 768, ->	
+NULL;	NULL;	NULL;	<P3, write, 768, 0>	
+NULL;	<P1, read, 256, ->;	NULL;	<P3, read, 768, ->	
+NULL;	<P1, write, 256, 0>;	<P2, read, 512, ->;	NULL	
+NULL;	NULL;	NULL;	<P3, write, 768, 0>	
+NULL;	<P1, read, 256, ->;	<P2, write, 512, 0>;	<P3, read, 768, ->	
+<P0, write, 0, 0>;	<P1, write, 256, 0>;	<P2, read, 512, ->;	<P3, write, 768, 0>	
+<P0, read, 0, ->;	NULL;	<P2, write, 512, 0>;	NULL	
+<P0, write, 0, 0>;	<P1, read, 256, ->;	<P2, read, 512, ->;	<P3, read, 768, ->	
+<P0, read, 0, ->;	<P1, write, 256, 0>;	NULL;	<P3, write, 768, 0>	
+<P0, write, 0, 0>;	<P1, read, 256, ->;	<P2, write, 512, 0>;	NULL	
+<P0, read, 0, ->;	NULL;	<P2, read, 512, ->;	<P3, read, 768, ->	
+<P0, write, 0, 0>;	NULL;	NULL;	NULL	
+<P0, read, 0, ->;	<P1, write, 256, 0>;	<P2, write, 512, 0>;	<P3, write, 768, 0>	
+NULL;	NULL;	NULL;	<P3, read, 768, ->	
+NULL;	<P1, read, 256, ->;	<P2, read, 512, ->;	NULL	
+NULL;	<P1, write, 256, 0>;	<P2, write, 512, 0>;	NULL	
+NULL;	NULL;	NULL;	<P3, write, 768, 0>	
+NULL;	<P1, read, 256, ->;	NULL;	NULL	
+<P0, write, 0, 0>;	<P1, write, 256, 0>;	<P2, read, 512, ->;	NULL	
+<P0, read, 0, ->;	<P1, read, 256, ->;	<P2, write, 512, 0>;	<P3, read, 768, ->	
+<P0, write, 0, 0>;	NULL;	<P2, read, 512, ->;	<P3, write, 768, 0>	
+<P0, read, 0, ->;	<P1, write, 256, 0>;	<P2, write, 512, 0>;	<P3, read, 768, ->	
+NULL;	NULL;	<P2, read, 512, ->;	<P3, write, 768, 0>	
+<P0, write, 0, 0>;	NULL;	<P2, write, 512, 0>;	<P3, read, 768, ->	
+<P0, read, 0, ->;	<P1, read, 256, ->;	<P2, read, 512, ->;	<P3, write, 768, 0>	
+NULL;	<P1, write, 256, 0>;	NULL;	<P3, read, 768, ->	
+<P0, write, 0, 0>;	<P1, read, 256, ->;	NULL;	NULL	
+<P0, read, 0, ->;	<P1, write, 256, 0>;	<P2, write, 512, 0>;	<P3, write, 768, 0>	
+NULL;	<P1, read, 256, ->;	NULL;	NULL	
+<P0, write, 0, 0>;	NULL;	<P2, read, 512, ->;	<P3, read, 768, ->	
+NULL;	<P1, write, 256, 0>;	<P2, write, 512, 0>;	<P3, write, 768, 0>	
+<P0, read, 0, ->;	<P1, read, 256, ->;	<P2, read, 512, ->;	NULL	
+<P0, write, 0, 0>;	<P1, write, 256, 0>;	<P2, write, 512, 0>;	<P3, read, 768, ->	
+<P0, read, 0, ->;	<P1, read, 256, ->;	<P2, read, 512, ->;	<P3, write, 768, 0>	
+<P0, write, 0, 0>;	NULL;	<P2, write, 512, 0>;	NULL	
+NULL;	NULL;	<P2, read, 512, ->;	NULL	
+NULL;	<P1, write, 256, 0>;	<P2, write, 512, 0>;	<P3, read, 768, ->	
+<P0, read, 0, ->;	<P1, read, 256, ->;	<P2, read, 512, ->;	<P3, write, 768, 0>	
+<P0, write, 0, 0>;	NULL;	<P2, write, 512, 0>;	<P3, read, 768, ->	
+<P0, read, 0, ->;	NULL;	<P2, read, 512, ->;	NULL	
+<P0, write, 0, 0>;	<P1, write, 256, 0>;	<P2, write, 512, 0>;	NULL	
+<P0, read, 0, ->;	<P1, read, 256, ->;	<P2, barrier, -, ->;	<P3, write, 768, 0>	
+NULL;	<P1, write, 256, 0>;	NULL;	NULL	
+NULL;	<P1, read, 256, ->;	NULL;	NULL	
+<P0, write, 0, 0>;	NULL;	NULL;	<P3, read, 768, ->	
+NULL;	<P1, write, 256, 0>;	NULL;	<P3, write, 768, 0>	
+NULL;	<P1, barrier, -, ->;	NULL;	NULL	
+NULL;	NULL;	NULL;	<P3, barrier, -, ->	
+<P0, read, 0, ->;	NULL;	NULL;	NULL	
+<P0, write, 0, 0>;	NULL;	NULL;	NULL	
+<P0, read, 0, ->;	NULL;	NULL;	NULL	
+<P0, write, 0, 0>;	NULL;	NULL;	NULL	
+<P0, barrier, -, ->;	NULL;	NULL;	NULL	
+<P0, read, 0, ->;	NULL;	NULL;	NULL	
+<P0, write, 1024, 0>;	NULL;	NULL;	NULL	
+<P0, read, 256, ->;	NULL;	NULL;	NULL	
+<P0, write, 1024, 0>;	NULL;	NULL;	NULL	
+<P0, read, 512, ->;	NULL;	NULL;	NULL	
+<P0, write, 1024, 0>;	NULL;	NULL;	NULL	
+<P0, read, 768, ->;	NULL;	NULL;	NULL	
+<P0, write, 1024, 0>;	NULL;	NULL;	NULL	
